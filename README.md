@@ -3,7 +3,7 @@
 </h1>
 <p>
   Suwa University of Science, majoring in computer science.<br>
-  And I'm running [SuwaGeeks](https://suwageekes.github.io/HomePage/).
+  And I'm running SuwaGeeks. (https://suwageekes.github.io/HomePage/)
 </p>
 
 <p align="left"> 
