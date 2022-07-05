@@ -1,7 +1,7 @@
 # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height=30px>
 
 **Suwa University of Science, majoring in computer science.**<br>
-**And I'm running [SuwaGeeks](https://suwageekes.github.io/HomePage/).**
+**And I'm running <a color="00FF7F" href="https://suwageekes.github.io/HomePage/">SuwaGeeks</a>.**
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=apricot256&count_private=true&show_icons=true&custom_title=Github%20Status&hide_border=true&bg_color=ffffff00&title_color=a569bd&icon_color=a569bd&text_color=CCCCFF"/>
