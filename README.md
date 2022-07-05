@@ -1,15 +1,29 @@
-<h1>
-  About Me
-</h1>
-<p>
-  Suwa University of Science, majoring in computer science.<br>
-  And I'm running SuwaGeeks. (https://suwageekes.github.io/HomePage/)
-</p>
+# Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height=30px>
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apricot256&layout=compact&show_icons=true&theme=synthwave&" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Apricot256&show_icons=ture&count_private=true&theme=synthwave" />
-</p>
+**Suwa University of Science, majoring in computer science.**<br>
+**And I'm running [SuwaGeeks](https://suwageekes.github.io/HomePage/).**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Apricot256&theme=onedark&column=7&theme=synthwave
-)](https://github.com/ryo-ma/github-profile-trophy)
+<img align="left" height="165" src="https://github-readme-stats.vercel.app/api?username=apricot256&count_private=true&show_icons=true&custom_title=Github%20Status&hide_border=true&bg_color=ffffff00&title_color=a569bd&icon_color=a569bd&text_color=CCCCFF"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apricot256&layout=compact&hide_border=true&bg_color=ffffff00&title_color=a569bd&icon_color=a569bd &text_color=CCCCFF"/>
+
+---
+
+<br/>
+
+**Languages and tools**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50 />
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height=50 />               
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height=50 />
