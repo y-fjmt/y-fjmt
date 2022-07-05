@@ -3,9 +3,10 @@
 **Suwa University of Science, majoring in computer science.**<br>
 **And I'm running [SuwaGeeks](https://suwageekes.github.io/HomePage/).**
 
-<img align="left" height="165" src="https://github-readme-stats.vercel.app/api?username=apricot256&count_private=true&show_icons=true&custom_title=Github%20Status&hide_border=true&bg_color=ffffff00&title_color=a569bd&icon_color=a569bd&text_color=CCCCFF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=apricot256&count_private=true&show_icons=true&custom_title=Github%20Status&hide_border=true&bg_color=ffffff00&title_color=a569bd&icon_color=a569bd&text_color=CCCCFF"/>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apricot256&layout=compact&hide_border=true&bg_color=ffffff00&title_color=a569bd&icon_color=a569bd &text_color=CCCCFF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apricot256&layout=compact&hide_border=true&bg_color=ffffff00&title_color=a569bd&icon_color=a569bd &text_color=CCCCFF"/>
+<br>
 
 ---
 
