@@ -1,11 +1,11 @@
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height=30px>
 
 **Suwa University of Science, majoring in computer science.**<br>
-**And I'm running <a color="00FF7F" href="https://suwageekes.github.io/HomePage/">SuwaGeeks</a>.**
+**And I'm running <a color="00FF7F" href="https://suwageeks.org">SuwaGeeks</a>.**
 
 <p>
-    <img src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=apricot256&peng=false"/>
-    <img src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=apricot256&pie=false">
+    <img src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=y-fjmt&peng=false"/>
+    <img src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=y-fjmt&pie=false">
 </p>
 
 **Languages and tools**
